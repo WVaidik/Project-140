@@ -1,0 +1,10 @@
+#back_div {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(7, 252, 56, 0.721);
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+    }
